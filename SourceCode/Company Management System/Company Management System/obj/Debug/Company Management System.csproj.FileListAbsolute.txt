@@ -1,0 +1,18 @@
+C:\Users\Yasas\source\repos\Company Management System\Company Management System\bin\Debug\Company Management System.exe.config
+C:\Users\Yasas\source\repos\Company Management System\Company Management System\bin\Debug\Company Management System.exe
+C:\Users\Yasas\source\repos\Company Management System\Company Management System\bin\Debug\Company Management System.pdb
+C:\Users\Yasas\source\repos\Company Management System\Company Management System\obj\Debug\Company Management System.csprojAssemblyReference.cache
+C:\Users\Yasas\source\repos\Company Management System\Company Management System\obj\Debug\Company_Management_System.Properties.Resources.resources
+C:\Users\Yasas\source\repos\Company Management System\Company Management System\obj\Debug\Company Management System.csproj.GenerateResource.cache
+C:\Users\Yasas\source\repos\Company Management System\Company Management System\obj\Debug\Company Management System.csproj.CoreCompileInputs.cache
+C:\Users\Yasas\source\repos\Company Management System\Company Management System\obj\Debug\Company Management System.exe
+C:\Users\Yasas\source\repos\Company Management System\Company Management System\obj\Debug\Company Management System.pdb
+C:\Users\Yasas\source\repos\Company Management System\Company Management System\obj\Debug\Company_Management_System.Form1.resources
+C:\Users\Yasas\source\repos\Company Management System\Company Management System\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Yasas\source\repos\Company Management System\Company Management System\bin\Debug\MySql.Data.dll
+C:\Users\Yasas\source\repos\Company Management System\Company Management System\bin\Debug\Google.Protobuf.dll
+C:\Users\Yasas\source\repos\Company Management System\Company Management System\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Yasas\source\repos\Company Management System\Company Management System\bin\Debug\MySql.Data.xml
+C:\Users\Yasas\source\repos\Company Management System\Company Management System\obj\Debug\Company Management System.csproj.CopyComplete
+C:\Users\Yasas\source\repos\Company Management System\Company Management System\obj\Debug\Company_Management_System.RegisterForm.resources
+C:\Users\Yasas\source\repos\Company Management System\Company Management System\obj\Debug\Company_Management_System.Main.resources
